@@ -75,7 +75,7 @@
                     <input id="amount_input" type="number" value="" step="0.00000001" class="form-control" oninput="check()" name="amount" placeholder="Enter amount to payout" required="">
 					 <span id="changePriceButton" class="max-count"><i class="fas fa-sync-alt"></i><span class="">Use max amount</span></span>
 					 <div class="invalid-feedback">
-                      Please enter valid amount to payout.                    </div>
+                      Please enter valid amount to payout..                    </div>
                   </div>
 
                    <div class="col-md-2">
